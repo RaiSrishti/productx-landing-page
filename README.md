@@ -86,4 +86,4 @@ http://localhost:5173
 ##  Author
 
 Srishti Rai M  
-Final Year CSE Student
+Final Year CSE Student## Project documentation updated
