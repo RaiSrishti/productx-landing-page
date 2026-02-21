@@ -19,4 +19,4 @@ function Features() {
   );
 }
 
-export default Features;
+export default Features;// Features section integrated with three cards
