@@ -11,4 +11,4 @@ function Hero() {
     );
   }
   
-  export default Hero;
+  export default Hero;// Hero section with CTA implemented
