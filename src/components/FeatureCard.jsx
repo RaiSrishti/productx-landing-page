@@ -7,4 +7,4 @@ function FeatureCard({ title, description }) {
     );
   }
   
-  export default FeatureCard;
+  export default FeatureCard;// Reusable FeatureCard component created
