@@ -29,7 +29,7 @@ This project was built as part of an internship task to showcase frontend develo
 ---
 
 ##  Project Structure
-'''
+```
 src/
 ├── components/
 │ ├── Navbar.jsx
@@ -40,7 +40,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-'''
+```
 
 
 ---
